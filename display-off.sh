@@ -23,8 +23,8 @@ turn off/on a display (one in multihead setup or all in the system)
 
 options:
     --all      turn off/on the displays of the all monitors
-    --help     output this help and exit
-    --version  output version info and exit
+    --help     show this help and exit
+    --version  show version info and exit
     <output>   turn off/on the display of the individual monitor, connected to the <output>
 
 you could get the <output> by 'xrandr --query' command. 
