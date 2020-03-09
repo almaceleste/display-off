@@ -22,5 +22,5 @@ you could get the `<output>` by `xrandr --query` command.
 usually it looks like smth as HDMI-0 or DP-1
 
 ### support me
-[![Beerpay](https://beerpay.io/almaceleste/display-off/badge.svg?style=beer-square)](https://beerpay.io/almaceleste/display-off) [![Beerpay](https://beerpay.io/almaceleste/display-off/make-wish.svg?style=flat-square)](https://beerpay.io/almaceleste/display-off?focus=wish)
+[![Beerpay](https://beerpay.io/almaceleste/display-off/badge.svg?style=beer)](https://beerpay.io/almaceleste/display-off) [![Beerpay](https://beerpay.io/almaceleste/display-off/make-wish.svg?style=flat)](https://beerpay.io/almaceleste/display-off?focus=wish)
 [![](https://img.shields.io/badge/Paypal-donate_me-blue.svg?longCache=true&logo=paypal)](https://www.paypal.me/almaceleste "paypal | donate me") 
