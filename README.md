@@ -6,6 +6,9 @@ this script turns off/on a display of the individual monitor or of the all monit
 
 <!-- #### wiki -->
 
+#### download
+[display-off.sh](https://github.com/almaceleste/display-off/raw/master/display-off.sh)
+
 #### usage:
 ```
 display-off.sh [option]
